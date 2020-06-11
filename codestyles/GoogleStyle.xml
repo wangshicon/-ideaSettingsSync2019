@@ -39,7 +39,6 @@
     </option>
   </JavaCodeStyleSettings>
   <MySQLCodeStyleSettings version="2">
-    <option name="DISABLE_FORMATTING" value="true" />
     <option name="KEYWORD_CASE" value="0" />
   </MySQLCodeStyleSettings>
   <Objective-C>
