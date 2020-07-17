@@ -39,6 +39,7 @@
         <package name="" withSubpackages="true" static="true" />
       </value>
     </option>
+    <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
   </JavaCodeStyleSettings>
   <MySQLCodeStyleSettings version="2">
     <option name="KEYWORD_CASE" value="0" />
@@ -128,6 +129,9 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="true" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
