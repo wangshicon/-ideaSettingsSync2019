@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AY" />
       <item value="Map&lt;String, String&gt; params = SignUtils.paraFilter(map)" />
       <item value="Lord" />
       <item value="idleTimeout has been set but has no effect because the pool is operating as a fixed size pool" />
@@ -13,8 +14,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
+        <entry key="CHINESE" value="8" />
         <entry key="ENGLISH" value="8" />
+        <entry key="FILIPINO" value="1" />
       </map>
     </option>
   </component>
