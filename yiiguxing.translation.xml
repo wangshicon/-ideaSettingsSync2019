@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="满足" />
+      <item value="达标" />
       <item value="exception unwrapping private key - java.security.InvalidKeyException: Illegal key size" />
       <item value="AY" />
       <item value="Map&lt;String, String&gt; params = SignUtils.paraFilter(map)" />
@@ -15,8 +17,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
         <entry key="FILIPINO" value="1" />
       </map>
     </option>
