@@ -42,7 +42,6 @@
     <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
   </JavaCodeStyleSettings>
   <MySQLCodeStyleSettings version="2">
-    <option name="DISABLE_FORMATTING" value="true" />
     <option name="KEYWORD_CASE" value="0" />
   </MySQLCodeStyleSettings>
   <Objective-C>
