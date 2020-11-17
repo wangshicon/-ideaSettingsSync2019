@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="转换到" />
+      <item value="转换" />
       <item value="满足" />
       <item value="达标" />
       <item value="exception unwrapping private key - java.security.InvalidKeyException: Illegal key size" />
