@@ -1,0 +1,61 @@
+<application>
+  <component name="GitCommitMessageHelperSettings">
+    <option name="dateSettings">
+      <DataSettings>
+        <option name="template" value="#if($type)${type}#end#if($scope)(${scope})#end: #if($subject)${subject}#end&#10;#if($body)${newline}${newline}${body}#end&#10;#if($changes)${newline}${newline}BREAKING CHANGE: ${changes}#end&#10;#if($closes)${newline}${newline}Closes ${closes}#end&#10;" />
+        <option name="typeAliases">
+          <list>
+            <TypeAlias>
+              <option name="title" value="feature" />
+              <option name="description" value="增加新功能" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="fix" />
+              <option name="description" value="修复bug" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="docs" />
+              <option name="description" value="修改文档" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="style" />
+              <option name="description" value="样式修改不影响逻辑" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="refactor" />
+              <option name="description" value="代码重构(既不修复bug也不添加特性的代码更改)" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="perf" />
+              <option name="description" value="代码重构(改进性能的代码更改)" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="test" />
+              <option name="description" value="添加缺失的测试或修改现有的测试" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="build" />
+              <option name="description" value="影响构建系统或外部依赖项的更改(例如作用域:gulp、broccoli、npm)" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="ci" />
+              <option name="description" value="对CI配置文件和脚本的更改(示例范围:Travis、Circle、BrowserStack、SauceLabs)" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="chore" />
+              <option name="description" value="不修改src或测试文件的其他更改" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="revert" />
+              <option name="description" value="版本回退" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="del" />
+              <option name="description" value="删除代码/文件" />
+            </TypeAlias>
+          </list>
+        </option>
+      </DataSettings>
+    </option>
+  </component>
+</application>
