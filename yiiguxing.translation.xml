@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reports any calls to specific methods where the result of that call is ignored. Method calls inspected are: Calls to simple getters (which do nothing except return a field) Calls to methods specified in the settings of this inspection Calls to Methods annotated with org.jetbrains.annotations.Contract(pure=true) Calls to Methods annotated with .*.CheckReturnValue Calls to Methods located in a class annotated with javax.annotation.CheckReturnValue Calls to Methods located in a package annotated with javax.annotation.CheckReturnValue Optionally all calls to non-library methods For calls to many methods ignoring the result is perfectly legitimate, but for some methods it is almost certainly an error. Examples of methods where ignoring the result of a call is likely to be an error include java.io.inputStream.read(), which returns the number of bytes actually read and any method on java.lang.String or java.math.BigInteger, as all of those methods are side-effect free and thus pointless if ignored." />
       <item value="order Existed Status" />
       <item value="orderExistedStatus" />
       <item value="已存在" />
@@ -35,8 +36,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
       </map>
     </option>
