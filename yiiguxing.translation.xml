@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="积分" />
       <item value="date format" />
       <item value="* Fills in the execution stack trace. This method records within this * {@code Throwable} object information about the current state of * the stack frames for the current thread. * * &lt;p&gt;If the stack trace of this {@code Throwable} {@linkplain * Throwable#Throwable(String, Throwable, boolean, boolean) is not * writable}, calling this method has no effect. * * @return a reference to this {@code Throwable} instance. * @see java.lang.Throwable#printStackTrace()" />
       <item value="企业" />
@@ -45,8 +46,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="24" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
       </map>
