@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="See below for * TreeNode subclass, and in LinkedHashMap for its Entry subclass" />
+      <item value="Basic hash bin node, used for most entries" />
       <item value="WAP PAY" />
       <item value="change template too frequently" />
       <item value="please enable new custom service, or wait for a while if you have enabled hint: [eGobfbMre-0K8F_] rid: 60616f34-73e9df22-342bc238" />
@@ -49,13 +51,11 @@
       <item value="No operations allowed after connection closed" />
       <item value="JD ASYNC AREA MARK" />
       <item value="Current Operator" />
-      <item value="addition" />
-      <item value="lock Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="30" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
       </map>
