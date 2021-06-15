@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="More formally, returns the highest index &lt;tt&gt;i&lt;/tt&gt; such that" />
+      <item value="Returns the index of the last occurrence of the specified element * in this list, or -1 if this list does not contain the element." />
+      <item value="The size of the ArrayList (the number of elements it contains)." />
       <item value="See below for * TreeNode subclass, and in LinkedHashMap for its Entry subclass" />
       <item value="Basic hash bin node, used for most entries" />
       <item value="WAP PAY" />
@@ -48,14 +51,11 @@
       <item value="Map&lt;String, String&gt; params = SignUtils.paraFilter(map)" />
       <item value="Lord" />
       <item value="idleTimeout has been set but has no effect because the pool is operating as a fixed size pool" />
-      <item value="No operations allowed after connection closed" />
-      <item value="JD ASYNC AREA MARK" />
-      <item value="Current Operator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="32" />
+        <entry key="ENGLISH" value="33" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
       </map>
